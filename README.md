@@ -1,2 +1,2 @@
 # masterbotheroku
-This is the code of @master_bot in lichess
+This is the code of @slowestguy in lichess
